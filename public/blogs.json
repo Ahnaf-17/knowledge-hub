@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/fpwZ0ZF/191.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/QCYZYj6/portrait-young-man-while-studying-books.jpg",
+      "title": "The Art of Programming",
+      "posted_date": "2023-09-10",
+      "reading_time": 5,
+      "hashtags": ["programming", "coding", "software"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/fpwZ0ZF/191.jpg",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/QCYZYj6/portrait-young-man-while-studying-books.jpg",
+      "title": "Exploring the Universe",
+      "posted_date": "2023-09-09",
+      "reading_time": 8,
+      "hashtags": ["science", "astronomy", "cosmos"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/VJHB83s/top-view-workspace-with-laptop-notebook.jpg",
+      "author": "David Brown",
+      "author_img": "https://i.ibb.co/QCYZYj6/portrait-young-man-while-studying-books.jpg",
+      "title": "Healthy Eating Habits",
+      "posted_date": "2023-09-08",
+      "reading_time": 7,
+      "hashtags": ["health", "nutrition", "wellness"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/fpwZ0ZF/191.jpg",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/QCYZYj6/portrait-young-man-while-studying-books.jpg",
+      "title": "Traveling on a Budget",
+      "posted_date": "2023-09-07",
+      "reading_time": 9,
+      "hashtags": ["travel", "budget", "adventure"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/VJHB83s/top-view-workspace-with-laptop-notebook.jpg",
+      "author": "Michael Davis",
+      "author_img": "https://i.ibb.co/QCYZYj6/portrait-young-man-while-studying-books.jpg",
+      "title": "Effective Time Management",
+      "posted_date": "2023-09-06",
+      "reading_time": 7,
+      "hashtags": ["productivity", "time management", "efficiency"]
+    }
+  ]
+  
